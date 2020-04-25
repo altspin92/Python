@@ -1,4 +1,4 @@
-#Programma scritto da Emanuele Beccaria emanuelebeccaria1992@gmail.
+#Programma scritto da Emanuele Beccaria emanuelebeccaria1992@gmail.com
 #Calcolatrice simpatica
 #Per ogni dubbio o consigli non esitate a contattarmi, sono un neofita nella programmazione!
 #Presentazione calcolatrice
